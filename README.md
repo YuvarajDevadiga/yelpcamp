@@ -1,2 +1,2 @@
 # yelpcamp
-Exploring the new places-camp grounds.
+Exploring the new places- camp grounds.
